@@ -6,13 +6,8 @@
 
 #include <treeMain.h>
 
-typedef struct tree{
-    int     data;
-    tree_t  *next;
-}tree_t;
-
 int main()
 {
-    
+       
     
 }
